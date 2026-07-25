@@ -19,6 +19,7 @@
 | 中文化      | 面板全中文；运行时从系统加载微软雅黑，不依赖任何翻译插件                                                                |
 
 ---
+<img width="1601" height="870" alt="ScreenShot_2026-07-26_022834_779" src="https://github.com/user-attachments/assets/bc6a1e99-d0f5-4778-8298-14a907290afc" />
 
 ## 📋 环境要求
 
